@@ -13,3 +13,5 @@ To be implemented:
 - Collecting additional data such as Genres, Album, etc.
 - Visualization of the data
 
+Screenshot of the current SQLite data:
+![alt text](https://github.com/IvanStamatov/Data-Engineering-Project.Spotify/blob/main/ScreenshotSQLite.PNG?raw=true)
